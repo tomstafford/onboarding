@@ -1,11 +1,12 @@
-# data challenge
+##Tom Stafford's onboarding pages
+	
+Lab page
+	* [tomstafford.staff.shef.ac.uk](http://www.tomstafford.staff.shef.ac.uk/)
 
-The file ABdata.csv contains measurements, stored in the 'value' column, from two groups, A and B.
 
-The challenge is to answer the question: which population - A or B - has the highest average on this measure?
+My [data challenge](data_challenge.csv):
+	* data here: [ABdata.csv](ABdata.csv)
 
-Credit is given for additional exploration, visualisation or discussion of the question and/or the data.
-
-Please send me complete answers by the method you think most appropriate.
-
-Tom Stafford, August 2017
+Onboarding advice
+	* [On data management](data.md)
+	* [On programming / coding](code.md)
