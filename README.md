@@ -5,7 +5,7 @@
 * [tomstafford.staff.shef.ac.uk](http://www.tomstafford.staff.shef.ac.uk/)
 
 
-### My [data challenge](data_challenge.csv):
+### My [data challenge](data_challenge.md):
 
 * data here: [ABdata.csv](ABdata.csv)
 
