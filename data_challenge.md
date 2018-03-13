@@ -1,6 +1,6 @@
 # data challenge
 
-The file ABdata.csv contains measurements, stored in the 'value' column, from two groups, A and B.
+The file [ABdata.csv](ABdata.csv) contains measurements, stored in the 'value' column, from two groups, A and B.
 
 The challenge is to answer the question: which population - A or B - has the highest average on this measure?
 
