@@ -9,9 +9,14 @@
 
 * data here: [ABdata.csv](ABdata.csv)
 
-### Onboarding advice
+
+### Onboarding advice: my pages
+
 
 * [On data management](data.md)
 * [On programming / coding](code.md)
+
+### Onboarding advice: links
+
 * [What to bring to a meeting with your advisor](
 http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/)
