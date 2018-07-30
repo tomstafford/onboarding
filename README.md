@@ -13,3 +13,5 @@
 
 * [On data management](data.md)
 * [On programming / coding](code.md)
+* [What to bring to a meeting with your advisor](
+http://www.avasthilab.org/2017/03/14/what-to-bring-to-a-meeting-with-your-advisor/)
