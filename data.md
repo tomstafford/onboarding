@@ -11,3 +11,4 @@ Never edit the raw data files. They should exist is a folder called \raw or \dat
 ### Reading: 
 * [Tidy Data organisation](http://vita.had.co.nz/papers/tidy-data.pdf) 
 * [Habits and open data: Helping students develop a theory of scientific mind ](http://bayesfactor.blogspot.co.uk/2015/11/habits-and-open-data-helping-students.html)
+* Broman & Woo (2017) [Data Organization in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
