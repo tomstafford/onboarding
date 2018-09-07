@@ -15,6 +15,7 @@
 
 * [On data management](data.md)
 * [On programming / coding](code.md)
+* [On getting grants](grants.md)
 
 ### Onboarding advice: links
 
