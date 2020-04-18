@@ -20,11 +20,15 @@ Two important things to consider before doing this are
 * data here: [ABdata.csv](ABdata.csv)
 
 
-### Onboarding advice: my pages
+### Onboarding advice: 
 
+Please see the pages for my MSc module on [Data Management and Visualisation](https://tomstafford.github.io/psy6422/)
 
-* [On data management](data.md)
-* [On programming / coding](code.md)
+In particular, see the pages on
+
+* [project organisation](https://tomstafford.github.io/psy6422/project-organisation.html)
+* [writing good code](https://tomstafford.github.io/psy6422/coding-principles.html#fundamental-principles-of-good-code)
+* and writing better code: [reproducibility](https://tomstafford.github.io/psy6422/advanced-topics.html#reproducibility)
 
 ### Onboarding advice: links
 
