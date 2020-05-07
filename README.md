@@ -2,6 +2,8 @@
 
 If you are interested in applying for a PhD place, please submit your documents online via the University of Sheffield site. Start here: [Applying essentials – PhD study](https://www.sheffield.ac.uk/postgraduate/phd/apply). Please make clear in your application why you are applying to work with me specifically.
 
+In general I am looking to work with people with strong computational/statistical skils and/or keen insight into experimental design for resolving conceptual issues in cognitive science.
+
 Two important things to consider before doing this are
 
 1. Funding. Unless I have advertised a specific project, I am not able to fund PhD students myself, so you need an alternative source of funding (self-funding, government scholarship or other).
