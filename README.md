@@ -10,7 +10,7 @@ Two important things to consider before getting in touch are this:
 
 1. Funding. Unless I have advertised a specific project, I am not able to fund PhD students myself, so you need an alternative source of funding (self-funding, government scholarship or other).
 
-2. The idea. It isn't possible to discuss applications for PhD places without seeing a full online application (see below), however I am happy to informally discuss ideas for research projects at any stage. It will be helpful for both of us for you to prepare a short (1-2 page) description of the research you are interested in doing.
+2. The idea. It isn't possible to discuss applications for PhD places without seeing a full online application (see below), however I am happy to informally discuss ideas for research projects at any stage. It will be helpful for both of us for you to prepare a short (1-2 page) description of the research you are interested in doing. PhD study differs from prior levels of study in that we expect students to develop and lead the research projects.
 
 If you have funding, and a good idea for a project, the next step is to apply to the University for a PhD place. Submit your documents online via the University of Sheffield site. Start here: [Applying essentials – PhD study](https://www.sheffield.ac.uk/postgraduate/phd/apply). Please make clear in your application why you are applying to work with me specifically.
 
