@@ -6,8 +6,8 @@ A PhD with me will involve using [robust](https://www.nature.com/articles/s41562
 
 Two important things to consider before getting in touch are this:
 
-1. Funding. Unless I have advertised a specific project, I am not able to fund PhD students myself, so you need an alternative source of funding (self-funding, government scholarship or other).
-2. The idea. It isn't possible to discuss applications for PhD places without seeing a full online application (see below), however I am happy to informally discuss ideas for research projects at any stage. It will be helpful for both of us for you to prepare a short (1-2 page) description of the research you are interested in doing. PhD study differs from prior levels of study in that we expect students to develop and lead the research projects. As a guide,  specific projects I am currently seeking students for are [here.](https://docs.google.com/document/d/1v9akVLjoYlR01V7SvGjYxUsDP2zCCbdvSXYB1NqoqcQ/edit?usp=sharing)
+1. Funding. Unless I have advertised a project with a specific sponsor, I am not able to fund PhD students myself, so you need an alternative source of funding (self-funding, government scholarship or other).
+2. The idea. I am happy to informally discuss ideas for research projects at any stage. To start the discussion, please **prepare a short (1-2 page) research proposal.** PhD study differs from prior levels of study in that we expect students to develop and lead the research projects. As a guide,  you can use the projects described [here.](https://docs.google.com/document/d/1v9akVLjoYlR01V7SvGjYxUsDP2zCCbdvSXYB1NqoqcQ/edit?usp=sharing) as a general guide to the areas I'm interested in working with students on.
 
 In general I am looking to work with people with strong computational/statistical skills and/or keen insight into experimental design for resolving conceptual issues in cognitive science.
 
