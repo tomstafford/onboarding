@@ -31,7 +31,7 @@ make clear in your application why you are applying to work with me specifically
 
 ### Lab page
 
-* [tomstafford.github.io](http://www.tomstafford.github.io/)
+* [tomstafford.github.io](https://tomstafford.github.io/)
 
 
 ### My [data challenge](data_challenge.md):
